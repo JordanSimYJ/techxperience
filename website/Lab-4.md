@@ -75,7 +75,7 @@ Step-by-step instructions
     ```
 1.  Next let's refresh the page and then test our end-to-end AskHR demo.
     Your results should mostly match the results in the **demo\_video.mov** within this folder.
-    **Note**: if you are prompted for your name, say "Victoria Baker".
+    > **Note**: if you are prompted for your name, say "Victoria Baker".
     ```
     check my leave balance
     ```
