@@ -26,21 +26,6 @@ Throughout the day, we will take you through
 |     14:45 - 15:15        |     **Use Case Discussion**<br>Casual session to share your use cases, assess readiness, and plan your path to implementation                                                                                                              |
 |     15:15                |     **Closing**                                                                                                                                                                                                                            |
 
-# Domains
-We bring to you the Experience Day, curated across three transformative domains. Dive into each domain to discover tailored experiences and actionable insights!
-
-## Finance
-![alt text](imgs/imgs_intro/finance_domain.png)
-
-## Sales
-Releasing Soon..
-![alt text](imgs/imgs_intro/sales_domain.png)
-
-## IT 
-Releasing Soon..
-![alt text](imgs/imgs_intro/it_domain.png)
-
-
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

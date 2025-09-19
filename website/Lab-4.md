@@ -2,7 +2,7 @@
 layout: page
 title: Lab 3
 # permalink: /lab2/
-nav_order: 5
+nav_order: 4
 ---
 🧑‍💼 AskHR: Automate HR tasks with Agentic AI (Lab 3: Multi-Agent Collaboration)
 =================================================================================
