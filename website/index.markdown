@@ -4,7 +4,7 @@ title: About
 nav_order: 0
 ---
 
-# Welcome to IBM Agentic AI Experience Day!
+# Welcome to IBM F1 Singapore Week TechXperience Workshop!
 Join us for an immersive event to explore Agentic AI through interactive sessions, expert insights, and hands-on labs. Discover actionable strategies to drive innovation and streamline operations in your organization.
 
 # Agenda 

@@ -7,11 +7,11 @@ nav_order: 5
 🧑‍💼 AskHR: Automate HR tasks with Agentic AI (Lab 3: Multi-Agent Collaboration)
 =================================================================================
 
-In the third and final subsection of our AskHR lab, we will extend our AskHR agent to be even more powerful by using its multi-agent capabilities. In particular, we'll add one more specialized agents as collaborator for our primary HR Agent.
+In the final lab, we will extend our AskHR agent to be even more powerful by using its multi-agent capabilities. In particular, we'll add one more specialized agents as collaborator for our primary HR Agent.
 
 *   The agent will specializes in questions about an employee's health insurance plan
 
-Note that in this agent, you will be using some pre-imported tools (rather than importing them yourself as in Lab 3b)
+Note that in this agent, you will be using some pre-imported tools (rather than importing them yourself).
 
 Step-by-step instructions
 =========================
