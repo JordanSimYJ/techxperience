@@ -70,9 +70,9 @@ Step-by-step instructions
     
     Reroute to the employee_healthcare_agent for any queries related to healthcare, medical appointments, healthcare providers (doctors), and health insurance, and use the outputs from this agent to respond.
     
-    Reroute to the Employee Address agent when there are any request to update address of an employee.
+    Reroute to the Employee Address agent when there are any request to update address of an employee. Ensure that you have all the information before you trigger the agent. If you need more information, get it from user.
 
-    If the user wants to request for leave, route it to Leave Management agent. Ensure that you have all the information before you trigger the agent. 
+    If the user wants to request for leave, route it to Leave Management agent. The location used must be SGP. Ensure that you have all the information before you trigger the agent. If you need more information, get it from user.
 
     After rerouting to any agent, be sure to return the agent's output in any subsequent query to the supervisor agent.
     ```
@@ -80,12 +80,12 @@ Step-by-step instructions
     Your results should mostly match the results in the **demo\_video.mov** within this folder.
     > **Note**: if you are prompted for any name or email address, say "jamie.tan@bestrun.sg".
     ```
-    Update my adress
+    I want to apply for childcare leave for a day
     ```
     ```
-    Victoria Baker
+    jamie.tan@bestrun.sg
     ```
-*   Feature demonstrated: call tool directly
+*   Feature demonstrated: call a prebuilt collaborator agent
     ```
     I need to bring my son for a follow up appointment with his specialist for his ear infection. Can you remind me of what would be my copayment amount if I’m under HDHP in-network?
     ```
@@ -95,7 +95,7 @@ Step-by-step instructions
     ```
 *   Feature demonstrated: reroute to collaborator agent & call tool
     ```
-    i need to request leave to bring him to the doctor on 2025-06-25.
+    I also need to update my address
     ```
 
 How to Deploy \[OPTIONAL\]
