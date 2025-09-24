@@ -32,52 +32,55 @@ Step-by-step instructions
     ![image](./imgs/lab-4/hr_c_step10_2.png)
 1.  Go back to "Manage Agents"
 1.  Click back into \[Your\_Initial\]\_HR\_Agent agent.
+
     ![image](./imgs/lab-4/hr_c_step11.png)
 1.  Scroll down to Toolset > Agents and click "Add agent" button  
+
     ![image](./imgs/lab-4/hr_c_step13.png)
 1.  Click "Add from local instance"  
+
     ![image](./imgs/lab-4/hr_c_step14.png)
 1.  Add the \[Your Initials\]\_employee\_healthcare\_agent as collaborators.
+
     ![image](./imgs/lab-4/hr_c_step15.png)
 1.  Scroll up & update the agent **Description**:
     ```
-    You are an agent who handles employee HR queries. You provide short and crisp responses, keeping the output to 200 words or less. You can help users check their profile data, retrieve latest time off balance, update title or address, retrieve their emails, retrieve their corporate card transactions, request time off, and more.
-    You can also reroute to an employee_healthcare_agent for answering questions related to employee health insurance policies, providers/doctors, medical claims.
+    You are an agent who handles employee HR queries. You provide short and crisp responses, keeping the output to 200 words or less. You can help users check their profile data, update their addresses within the SAP system.You can also reroute to an employee_healthcare_agent for answering questions related to employee health insurance policies, providers/doctors, medical claims.
     ```
-1.  Scroll down and update the agent **Behavior**
+1.  Next, we will also add in the Employee Address prebuilt agent which we've created in Lab 1.
+1.  Scroll down to Agents and click on **Add agent**.
+
+    ![image](./imgs/lab-4/hr_c_step_agent.png)
+
+1. Click on **Add from local instance**.
+    ![image](./imgs/lab-4/hr_c_step_local.png)
+
+1. Search for \[Your\_Initial\]\_Employee Address, select the relevant agent and click **Add to agent**.
+    ![image](./imgs/lab-4/hr_c_step_addagent.png)
+
+1. Repeat the steps to add Leave Management Agent
+    ![image](./imgs/lab-4/hr_c_step_addleave1.png)
+
+    ![image](./imgs/lab-4/hr_c_step_addleave2.png)
+
+    ![image](./imgs/lab-4/hr_c_step_addleave3.png)
+1. Scroll down and update the agent **Behavior**
     ```
     Use your knowledge base to answer general questions about employee benefits. For any questions related to benefits/incentives that are unrelated to healthcare, refer to your KNOWLEDGE.
     
-    Use the tools to get or update user specific information.
-    
-    When user asks to show profile data or check time off balance or update title/address or request time off for the very first time, first ask the user for their name, then invoke the tool and then use the same name in the whole session without asking for the name again.
-    
-    When user request for time off for the very first time, you must ensure that you have name, leave start date and leave end date before using the tool. If you do not have the information, clarify with the users. Convert the dates to YYYY-MM-DD format
-    
-    For multiple requests, always use the same name throughout the session.
-    
-    Always reply in a friendly and complete sentence.
-    
-    Do not ever call tools, unless you are sure of the correct input parameters. If you are not sure, or have incomplete information (such as a missing user/employee name, request it from the user first)
-    
-    For the following tools, please ensure that you know the employee name and if you do not, request the name (do not assume):
-    - get_emails
-    - get_corporate_card_transactions
-    - user_profile_details
-    - update_address
-    - update_title
-    - request_time_off
-    - time_off_balance
-    
     Reroute to the employee_healthcare_agent for any queries related to healthcare, medical appointments, healthcare providers (doctors), and health insurance, and use the outputs from this agent to respond.
     
+    Reroute to the Employee Address agent when there are any request to update address of an employee.
+
+    If the user wants to request for leave, route it to Leave Management agent. Ensure that you have all the information before you trigger the agent. 
+
     After rerouting to any agent, be sure to return the agent's output in any subsequent query to the supervisor agent.
     ```
 1.  Next let's refresh the page and then test our end-to-end AskHR demo.
     Your results should mostly match the results in the **demo\_video.mov** within this folder.
-    > **Note**: if you are prompted for your name, say "Victoria Baker".
+    > **Note**: if you are prompted for any name or email address, say "jamie.tan@bestrun.sg".
     ```
-    check my leave balance
+    Update my adress
     ```
     ```
     Victoria Baker
