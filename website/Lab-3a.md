@@ -38,23 +38,29 @@ We will make this agent more powerful with more tools and access to APIs in lab3
 
     ![image](./imgs/lab-3a/hr_step4.png)
 
-1. Scroll down the screen to the **Knowledge** section. Copy the following description into the **Knowledge Description** section:
+1. We are going to build a knowledge base for the agent. Scroll down the screen to the **Knowledge** section and click on "Choose knowledge".
+
+    ![image](./imgs/lab-3a/hr_step_knowledge.png)
+
+1. Choose "Upload files" and click "Next".
+
+    ![image](./imgs/lab-3a/hr_step_uploadfile.png)
+
+1. Drag and drop the [Employee Benefits.pdf](/f1-week-sg-techxchange/pdfs/Employee-Benefits.pdf) and click on **Next**:
+
+    ![image](./imgs/lab-3a/hr_step6.png)
+
+1. Copy the following description into the **Description** section and click **Save**:
 
     ```
     This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
     ```
 
-    Click on **Upload files**:
+    ![image](./imgs/lab-3a/hr_step_desc.png)
 
-    ![image](./imgs/lab-3a/hr_step5.png)
+    The knowledge base will take some time to create. After the knowledge base is done, you will be brought back to the Agent Builder UI.
 
-1. Drag and drop the [Employee Benefits.pdf](/f1-week-sg-techxchange/pdfs/Employee-Benefits.pdf) and click on **Upload**:
-
-    ![image](./imgs/lab-3a/hr_step6.png)
-
-1. Wait until the file has been uploaded successfully and double check that it is now shown in the Knowledge section: 
-
-    ![image](./imgs/lab-3a/hr_step7.png)
+    ![image](./imgs/lab-3a/hr_step_kbase.png)
 
 
 1. Scroll down to the **Behavior** section. Insert the instructions below into the **Instructions** field:
