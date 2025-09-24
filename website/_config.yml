@@ -22,7 +22,7 @@ title: IBM Agentic AI Workshop
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hands-on lab and workshop series for Agentic AI, featuring practical sessions, IBM watsonx Orchestrate, and collaborative activities.
-baseurl: "f1-week-sg-techxchange" # the subpath of your site, e.g. /blog
+baseurl: "techxchange" # the subpath of your site, e.g. /blog
 url: "https://rc-ibm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
