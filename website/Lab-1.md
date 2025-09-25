@@ -156,7 +156,7 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
  ![image](./imgs/lab-1/step-34.png)
 
-11. Download the following document to your laptop. Then click the upload document icon and look for the [Employees-Benefit.pdf](./pdfs/Employee-Benefits.pdf) document
+11. Download the following document to your laptop. Then click the upload document icon and look for the [Employee Benefits.pdf](./pdfs/Employee-Benefits.pdf) document
 
  ![image](./imgs/lab-1/step-35.png)
 
