@@ -75,7 +75,6 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
     ```
     What is the pet policy? 
-
     ```
 
     ![image](./imgs/lab-3a/hr_step13.png)
@@ -84,20 +83,13 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
     ```
     how many days of leave am i entitled to?
-
     ```
     ```
     can i work from home 3 times a week?
-
     ```
     ```
     does the company provide any assistance on loan repayments?
-
     ```
-    ```
-    can i update my address?
-
-    ```
-    Notice that you get a generic answer when asking to update the address. You will see in the next lab how you can connect it to Employee Address Agent from Lab 1 to actually update the address for you.
+    Notice that you get a generic answers based on policy for all employees. You will see in the next lab how you can connect it to Employee Address Agent and Leave Management Agent from Lab 1 to do tasks for you.
 
 **Congratulations! You've built your RAG Agent.**
