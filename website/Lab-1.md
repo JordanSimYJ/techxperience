@@ -147,7 +147,6 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
    ![image](./imgs/lab-1/step-33.png)
 
 10. You should notice an upload document icon on the chat input bar.  
-
    ![image](./imgs/lab-1/step-34.png)
 
 11. Download the following document to your laptop. Then click the upload document icon and look for the [Employee Benefits.pdf](./pdfs/Employee-Benefits.pdf) document
