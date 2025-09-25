@@ -96,20 +96,26 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
  ```
  today
  ```  
-   ![image](./imgs/lab-1/step-24b.png)  
- If you are asked to input an email address, use:  
- ```
- jamie.tan@bestrun.sg
- ```     
-   ![image](./imgs/lab-1/step-24-b-2.png)  
+
+ ![image](./imgs/lab-1/step-24b.png)  
+
+ If you are asked to input an email address, use the following email address according to where you are attending the workshop:  
+
+| Location | email    |
+|----------|----------|
+| Singapore| jamie.tan@bestrun.sg  |
+| Malaysia  | jamie.tan1@bestrun.sg |      
+
+ ![image](./imgs/lab-1/step-24-b-2.png)  
+
  When asked for confirmation, input:  
  ```
  yes
  ```
 
-## Building Compensation Agent with document upload 
+## Bonus: Building Compensation Agent with document upload 
 
-1. Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Compensation Successfactors.  
+1. Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Leave Management Successfactors.  
    Select the Agent with SAP SuccessFactor.  
 
    ![image](./imgs/lab-1/step-25.png)
@@ -118,19 +124,19 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
    ![image](./imgs/lab-1/step-26.png)
 
-3. Edit the Agent’s name to become [Your Initial]_Compensation.  
+3. Edit the Agent’s name to become [Your Initial]_Leave Management.  
 
    ![image](./imgs/lab-1/step-27.png)
  
 4. Let’s try the agent on preview. Type the question below:
- ```
- Can I bring a pet to the office
- ```
+   ```
+   Can I bring a pet to the office
+   ```
 5. The agent will not be able to answer the above question as it doesn’t have the right tool. In the next few steps, we will demonstrate how you can upload a document on the chat interface to find quick answers to questions.
 
 6. Scroll down along the agent settings until you see the “Chat with document” section. Toggle to switch it on.  
 
-![image](./imgs/lab-1/step-30.png)
+   ![image](./imgs/lab-1/step-30.png)
 
 7. Deploy the agent by clicking on “Deploy” on the top right corner.
 
@@ -138,35 +144,35 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
 9. Search for your Compensation agent from the drop down menu.  
 
-![image](./imgs/lab-1/step-33.png)
+   ![image](./imgs/lab-1/step-33.png)
 
 10. You should notice an upload document icon on the chat input bar.  
 
- ![image](./imgs/lab-1/step-34.png)
+   ![image](./imgs/lab-1/step-34.png)
 
 11. Download the following document to your laptop. Then click the upload document icon and look for the [Employee Benefits.pdf](./pdfs/Employee-Benefits.pdf) document
 
- ![image](./imgs/lab-1/step-35.png)
+   ![image](./imgs/lab-1/step-35.png)
 
 12. Now, ask the same question:
- ```
- Can I bring a pet to the office
- ```
+   ```
+   Can I bring a pet to the office
+   ```
 
 13. It will take some time to process the document, but you will see that your Compensation agent is able to answer the question.  
 
- ![image](./imgs/lab-1/step-37.png)
+   ![image](./imgs/lab-1/step-37.png)
 
 14. Note that the document is only available to the agent for the current chat session.
 
 15. The agent will still work with existing tools. Try queries such as:
- ```
- Show compensation for jadannb@test.com
- ```
- ```
- My benefit plans
- ```
- ![image](./imgs/lab-1/step-39.png)
+   ```
+   Show compensation for jadannb@test.com
+   ```
+   ```
+   My benefit plans
+   ```
+   ![image](./imgs/lab-1/step-39.png)
 
  
 
