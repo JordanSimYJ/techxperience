@@ -4,7 +4,7 @@ title: Lab 2
 # permalink: /lab2/
 nav_order: 3
 ---
-# 🧑‍💼 AskHR: Automate HR tasks with Agentic AI (Lab 2: Building a simple RAG agent)
+# 🧑‍💼 AskHR Lab 2: Building a RAG agent
     
 ## Use Case Description
 
