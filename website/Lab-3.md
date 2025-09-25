@@ -101,4 +101,4 @@ Step-by-step instructions
 How to Deploy \[OPTIONAL\]
 ==========================
 
-1.  Deploying is as simple as clicking the blue "Deploy" button on the top right.
+Deploying is as simple as clicking the blue "Deploy" button on the top right.
