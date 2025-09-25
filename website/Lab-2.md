@@ -11,7 +11,7 @@ nav_order: 3
 
 In this lab, we will enable our HR agent in watsonx Orchestrate to answer questions based on a knowledge base. This agent retrieves relevant information from documents to answer user queries.
 
-We will make this agent more powerful with more tools and access to APIs in lab3b, and enable it to collaborate with other agents in lab3c.
+We will make this agent more powerful with more tools and access to APIs, and enable it to collaborate with other agents in lab3.
 
 
 ## Step by step instructions to build the HR Agent:
@@ -74,8 +74,28 @@ We will make this agent more powerful with more tools and access to APIs in lab3
 1. Test your agent in the preview chat on the right side by asking the following questions and validating the responses.  They should look similar to what is shown in the screenshot(s) below:
 
     ```
-    1. What is the pet policy? 
+    What is the pet policy? 
 
     ```
 
     ![image](./imgs/lab-3a/hr_step13.png)
+
+1. Congratulations! You've built your RAG Agent. You can try the following sample questions as well:
+
+    ```
+    how many days of leave am i entitled to?
+
+    ```
+    ```
+    can i work from home 3 times a week?
+
+    ```
+    ```
+    does the company provide any assistance on loan repayments?
+
+    ```
+    ```
+    can i update my address?
+
+    ```
+    Notice that you get a generic answer when asking to update the address. You will see in the next lab how you can connect it to Employee Address Agent from Lab 1 to actually update the address for you.
