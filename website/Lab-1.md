@@ -62,8 +62,11 @@ Key features of prebuilt agents include:
      ![image](./imgs/lab-1/step-17.png)
 
 18.	On the search bar, type in “Personal Details”. Select “Get personal details in SAP SuccessFactors” from the search result.
-
-     ![image](./imgs/lab-1/step-18.png)
+    ```
+    personal details
+    ```
+    Select “Get personal details in SAP SuccessFactors” from the search result.
+    ![image](./imgs/lab-1/step-18.png)
 
 19.	 After you click on the tool, you will be able to see the input and output the tool is expecting. Once you’re ready, click on “Add to agent” on the bottom right.
 
