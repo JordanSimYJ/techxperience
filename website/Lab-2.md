@@ -46,7 +46,7 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
     ![image](./imgs/lab-3a/hr_step_uploadfile.png)
 
-1. Drag and drop the [Employee Benefits.pdf](/f1-week-sg-techxchange/pdfs/Employee-Benefits.pdf) and click on **Next**:
+1. Drag and drop the [Employee Benefits.pdf](./pdfs/Employee-Benefits.pdf) and click on **Next**:
 
     ![image](./imgs/lab-3a/hr_step6.png)
 
