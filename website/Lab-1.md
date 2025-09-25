@@ -27,7 +27,7 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 3.	Currently, all the prebuilt agents and tools are separated into 4 domains/categories. Feel free to click on one of the categories and see what is available for you. 
 4.	In this lab, we will be using prebuilt agents and tools from the HR category.
 
-## Building and Employee Address Agent
+## Building an Employee Address Agent
 
 1. Go back to the hamburger menu and click on “Discover” again if you’ve navigated away.  
 2. On the search bar, search for “Employee Address” and hit Enter. Click on the Employee Address once the search result comes back.  
@@ -53,41 +53,25 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
 8. Keep the rest of the agent set up as it is and let’s try the agent.  
 9. In the “Preview” panel on the right, let’s try one query.  
-
-![image](./imgs/lab-1/step-13.png)  
-
+   ![image](./imgs/lab-1/step-13.png)  
 10. If you face any problem with step 9, please alert one of your friendly instructors.  
 11. Prebuilt agents present an easy way to build an agent. However, we can also edit the prebuilt agent. Let’s try to add an extra tool into the agent.  
 12. Scroll down to the toolset and click on “Add tool”.  
-
- ![image](./imgs/lab-1/step-16.png)  
-
+   ![image](./imgs/lab-1/step-16.png)  
 13. Click on “Add from catalog”.  
-
- ![image](./imgs/lab-1/step-17.png)  
-
+   ![image](./imgs/lab-1/step-17.png)  
 14. On the search bar, type in “Personal Details”. Select “Get personal details in SAP SuccessFactors” from the search result.  
-
- ```
- personal details
- ```
-
+   ```
+   personal details
+   ```
  Select “Get personal details in SAP SuccessFactors” from the search result.  
-
- ![image](./imgs/lab-1/step-18.png)  
-
+   ![image](./imgs/lab-1/step-18.png)  
 15. After you click on the tool, you will be able to see the input and output the tool is expecting. Once you’re ready, click on “Add to agent” on the bottom right.  
-
- ![image](./imgs/lab-1/step-19.png)  
-
+   ![image](./imgs/lab-1/step-19.png)  
 16. Once returned to the agent builder page, you will see the additional tool added to the tools list.  
-
- ![image](./imgs/lab-1/step-20.png)  
-
+   ![image](./imgs/lab-1/step-20.png)  
 17. After building the agent, we can deploy our agent. Click the “Deploy” button on the top right. Keep all default settings when being asked.  
-
- ![image](./imgs/lab-1/step-21.png)  
-
+   ![image](./imgs/lab-1/step-21.png)  
 18. Once the deployment is ready, navigate to “Chat” from the left-hand hamburger menu.  
 19. From the dropdown menu, select your agent.  
 
