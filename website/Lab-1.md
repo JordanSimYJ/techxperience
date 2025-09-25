@@ -45,7 +45,9 @@ Key features of prebuilt agents include:
 
 12.	 Keep the rest of the agent set up as it is and let’s try the agent.
 13.	In the “Preview” panel on the right, let’s try one query.
-Update my address
+    ```
+    Update my address
+    ```
 
      ![image](./imgs/lab-1/step-13.png)
 
@@ -82,11 +84,16 @@ Update my address
 
 24.	Let’s try out the agent. Here are some queries you can use.
     
-    a.	Get personal details for jamie.tan@bestrun.sg
-
+    a.	
+    ```
+    Get personal details for jamie.tan@bestrun.sg
+    ```
      ![image](./imgs/lab-1/step-24a.png)
 
-    b.	Update my address
+    b.
+   	```
+    Update my address
+    ```
 
      ![image](./imgs/lab-1/step-24b.png)
 
@@ -97,49 +104,59 @@ Update my address
      ![image](./imgs/lab-1/step-24-b-2.png)
 
         Input yes when asked for confirmation.
-25.	Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Compensation Successfactors .
+26.	Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Compensation Successfactors .
     Select the Agent with SAP SuccessFactor.
     
      ![image](./imgs/lab-1/step-25.png)
 
-26.	Click on “Use as Template”
+27.	Click on “Use as Template”
 
      ![image](./imgs/lab-1/step-26.png)
 
 
-27.	Edit the Agent’s name to become [Your Initial]_Compensation.
+28.	Edit the Agent’s name to become [Your Initial]_Compensation.
 
      ![image](./imgs/lab-1/step-27.png)
  
-28.	Let’s try the agent on preview. Type the question below:
-    a.	Can I bring a pet to the office
-29.	The agent will not be able to answer the above question as it doesn’t have the right tool. In the next few steps, we will demonstrate how you can upload a document on the chat interface to find quick answers to questions.
-30.	Scroll down along the agent settings until you see the “Chat with document” section. Toggle to switch it on.\
+29.	Let’s try the agent on preview. Type the question below:
+   ```
+    Can I bring a pet to the office
+    ```
+30.	The agent will not be able to answer the above question as it doesn’t have the right tool. In the next few steps, we will demonstrate how you can upload a document on the chat interface to find quick answers to questions.
+31.	Scroll down along the agent settings until you see the “Chat with document” section. Toggle to switch it on.\
 
      ![image](./imgs/lab-1/step-30.png)
 
-31.	Deploy the agent by clicking on “Deploy” on the top right corner.
-32.	Once the deployment is ready, navigate to “Chat” from the left hand hamburger menu.
-33.	Search for your Compensation agent from the drop down menu.
+32.	Deploy the agent by clicking on “Deploy” on the top right corner.
+33.	Once the deployment is ready, navigate to “Chat” from the left hand hamburger menu.
+34.	Search for your Compensation agent from the drop down menu.
 
      ![image](./imgs/lab-1/step-33.png)
 
-34.	You should notice an upload document icon on the chat input bar
+35.	You should notice an upload document icon on the chat input bar
 
      ![image](./imgs/lab-1/step-34.png)
 
-35.	Download the following document to your laptop. Then click the upload document icon and look for the Employees-Benefit.pdf document
+36.	Download the following document to your laptop. Then click the upload document icon and look for the Employees-Benefit.pdf document
 
      ![image](./imgs/lab-1/step-35.png)
 
-36.	Now, ask the same question: Can I bring a pet to the office
-37.	It will take some time to process the document, but you will see that your Compensation agent is able to answer the question.
+37.	Now, ask the same question:
+    ```
+    Can I bring a pet to the office
+    ```
+38.	It will take some time to process the document, but you will see that your Compensation agent is able to answer the question.
 
      ![image](./imgs/lab-1/step-37.png)
 
-38.	Note that the document is only available to the agent for the current chat session.
-39.	The agent will still work with existing tool. Try queries such as "Show compensation for jadannb@test.com" or "My benefit plans"
-
+39.	Note that the document is only available to the agent for the current chat session.
+40.	The agent will still work with existing tool. Try queries such as:
+    ```
+    Show compensation for jadannb@test.com
+    ```
+    ```
+    My benefit plans
+    ```
      ![image](./imgs/lab-1/step-39.png)
  
 
