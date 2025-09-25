@@ -74,25 +74,19 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
    ![image](./imgs/lab-1/step-21.png)  
 18. Once the deployment is ready, navigate to “Chat” from the left-hand hamburger menu.  
 19. From the dropdown menu, select your agent.  
-
- ![image](./imgs/lab-1/step-23.png)  
-
+   ![image](./imgs/lab-1/step-23.png)  
 20. Let’s try out the agent. Here are some queries you can use:  
-
  a.  
  ```
  Get personal details for jamie.tan@bestrun.sg
  ```
- ![image](./imgs/lab-1/step-24a.png)  
-
+   ![image](./imgs/lab-1/step-24a.png)  
  b.  
  ```
  Update my address
  ```  
-
  When asked, you can use any address type, address, and any start date.  
  Country code must be **SGP**. As an example, you can put in:  
-
  ```
  mailing
  ```
@@ -102,19 +96,13 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
  ```
  today
  ```  
-
- ![image](./imgs/lab-1/step-24b.png)  
-
+   ![image](./imgs/lab-1/step-24b.png)  
  If you are asked to input an email address, use:  
-
  ```
  jamie.tan@bestrun.sg
  ```     
-
- ![image](./imgs/lab-1/step-24-b-2.png)  
-
+   ![image](./imgs/lab-1/step-24-b-2.png)  
  When asked for confirmation, input:  
-
  ```
  yes
  ```
