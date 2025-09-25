@@ -6,9 +6,6 @@ nav_order: 3
 ---
 # 🧑‍💼 AskHR Lab 2: Building a RAG agent
     
-## Use Case Description
-
-
 In this lab, we will enable our HR agent in watsonx Orchestrate to answer questions based on a knowledge base. This agent retrieves relevant information from documents to answer user queries.
 
 We will make this agent more powerful with more tools and access to APIs, and enable it to collaborate with other agents in lab3.
