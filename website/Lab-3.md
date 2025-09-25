@@ -40,27 +40,17 @@ Step-by-step instructions
 1.  Click "Add from local instance"  
 
     ![image](./imgs/lab-4/hr_c_step14.png)
-1.  Add the \[Your Initials\]\_employee\_healthcare\_agent as collaborators.
+1.  Add the \[Your Initials\]\_employee\_healthcare\_agent and \[Your Initials\]\_Employee Address as collaborators.
 
-    ![image](./imgs/lab-4/hr_c_step15.png)
+    ![image](./imgs/lab-4/hr_c_step_2agent.png)
 1.  Scroll up & update the agent **Description**:
     ```
     You are an agent who handles employee HR queries. You provide short and crisp responses, keeping the output to 200 words or less. You can help users check their profile data, update their addresses within the SAP system.You can also reroute to an employee_healthcare_agent for answering questions related to employee health insurance policies, providers/doctors, medical claims.
     ```
 1. Select the Agent Style as "React".
     ![image](./imgs/lab-4/hr_agent_style.png)
-1.  Next, we will also add in the Employee Address prebuilt agent which we've created in Lab 1.
-1.  Scroll down to Agents and click on **Add agent**.
 
-    ![image](./imgs/lab-4/hr_c_step_agent.png)
-
-1. Click on **Add from local instance**.
-    ![image](./imgs/lab-4/hr_c_step_local.png)
-
-1. Search for \[Your\_Initial\]\_Employee Address, select the relevant agent and click **Add to agent**.
-    ![image](./imgs/lab-4/hr_c_step_addagent.png)
-
-1. Repeat the steps to add Leave Management Agent
+1. Now, we will add a whole new prebuilt agent as a collaborator. 
     ![image](./imgs/lab-4/hr_c_step_addleave1.png)
 
     ![image](./imgs/lab-4/hr_c_step_addleave2.png)
@@ -79,8 +69,13 @@ Step-by-step instructions
     After rerouting to any agent, be sure to return the agent's output in any subsequent query to the supervisor agent.
     ```
 1.  Next let's refresh the page and then test our end-to-end AskHR demo.
-    Your results should mostly match the results in the **demo\_video.mov** within this folder.
-    > **Note**: if you are prompted for any name or email address, say "jamie.tan@bestrun.sg".
+1. Your results should mostly match the results in the [**demo\_video.mov**](https://ibm.box.com/s/lmbpwv4dsl7y7y00qung5natombpjq2d).<br>
+    **Note**: if you are prompted for any name or email address, use the email address below based on the location you are attending the workshop.
+    | Location | email    |
+    |----------|----------|
+    | Singapore| jamie.tan@bestrun.sg  |
+    | Malaysia  | jamie.tan1@bestrun.sg |  
+
     ```
     I want to apply for childcare leave for a day
     ```
@@ -99,8 +94,3 @@ Step-by-step instructions
     ```
     I also need to update my address
     ```
-
-How to Deploy \[OPTIONAL\]
-==========================
-
-Deploying is as simple as clicking the blue "Deploy" button on the top right.
