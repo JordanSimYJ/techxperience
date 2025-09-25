@@ -80,7 +80,7 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
     ![image](./imgs/lab-3a/hr_step13.png)
 
-1. Congratulations! You've built your RAG Agent. You can try the following sample questions as well:
+1. You can try the following sample questions as well:
 
     ```
     how many days of leave am i entitled to?
@@ -99,3 +99,5 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
     ```
     Notice that you get a generic answer when asking to update the address. You will see in the next lab how you can connect it to Employee Address Agent from Lab 1 to actually update the address for you.
+
+**Congratulations! You've built your RAG Agent.**
