@@ -119,7 +119,7 @@ Key features of prebuilt agents include:
      ![image](./imgs/lab-1/step-27.png)
  
 29.	Let’s try the agent on preview. Type the question below:
-   ```
+    ```
     Can I bring a pet to the office
     ```
 30.	The agent will not be able to answer the above question as it doesn’t have the right tool. In the next few steps, we will demonstrate how you can upload a document on the chat interface to find quick answers to questions.
