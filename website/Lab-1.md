@@ -94,16 +94,17 @@ Key features of prebuilt agents include:
      ![image](./imgs/lab-1/step-24a.png)
 
     b.
-   	```
+    ```
     Update my address
     ```
-
      ![image](./imgs/lab-1/step-24b.png)
 
     When asked, you can use any address and any start date. 
     Country code must be SGP.
     If you are asked to input an email address, use jamie.tan@bestrun.sg
-        
+    ```
+    jamie.tan@bestrun.sg
+    ```     
      ![image](./imgs/lab-1/step-24-b-2.png)
 
         Input yes when asked for confirmation.
