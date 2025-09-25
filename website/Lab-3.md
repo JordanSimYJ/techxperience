@@ -69,7 +69,7 @@ Step-by-step instructions
     After rerouting to any agent, be sure to return the agent's output in any subsequent query to the supervisor agent.
     ```
 1.  Next let's refresh the page and then test our end-to-end AskHR demo.
-1. Your results should mostly match the results in the [**demo\_video.mov**](https://ibm.box.com/s/lmbpwv4dsl7y7y00qung5natombpjq2d).<br>
+1. Your results should mostly match the results in the [**demo\_video.mov**](https://ibm.box.com/s/0il7rzhoes6ii9jv12lun88he0kudnuc).<br>
     **Note**: if you are prompted for any name or email address, use the email address below based on the location you are attending the workshop.
     | Location | email    |
     |----------|----------|
