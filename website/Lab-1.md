@@ -97,17 +97,27 @@ Key features of prebuilt agents include:
     ```
     Update my address
     ```
-     ![image](./imgs/lab-1/step-24b.png)
+    
 
-    When asked, you can use any address and any start date. 
-    Country code must be SGP.
-    If you are asked to input an email address, use jamie.tan@bestrun.sg
+    When asked, you can use any address type, address and any start date. 
+    Country code must be SGP. As an example, you can put in
+   	```
+    mailing
+    ```
+    ```
+    225 ABC St 46 02-556 778225 SGP
+    ```
+    ```
+    today
+    ```
+   	![image](./imgs/lab-1/step-24b.png)
+    If you are asked to input an email address, use 
     ```
     jamie.tan@bestrun.sg
     ```     
      ![image](./imgs/lab-1/step-24-b-2.png)
 
-        Input yes when asked for confirmation.
+    Input yes when asked for confirmation.
 26.	Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Compensation Successfactors .
     Select the Agent with SAP SuccessFactor.
     
