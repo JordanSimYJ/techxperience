@@ -117,7 +117,10 @@ Key features of prebuilt agents include:
     ```     
      ![image](./imgs/lab-1/step-24-b-2.png)
 
-    Input yes when asked for confirmation.
+    When asked for confirmation, input
+   	```
+    yes
+    ```
 26.	Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Compensation Successfactors .
     Select the Agent with SAP SuccessFactor.
     
