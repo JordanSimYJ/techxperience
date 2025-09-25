@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Lab 3
-# permalink: /lab2/
+# permalink: /lab3/
 nav_order: 4
 ---
-🧑‍💼 AskHR: Automate HR tasks with Agentic AI (Lab 3: Multi-Agent Collaboration)
+🧑‍💼 AskHR Lab 3: Multi-Agent Collaboration
 =================================================================================
 
 In the final lab, we will extend our AskHR agent to be even more powerful by using its multi-agent capabilities. In particular, we'll add one more specialized agents as collaborator for our primary HR Agent.
