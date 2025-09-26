@@ -71,26 +71,34 @@ Step-by-step instructions
 1.  Next let's refresh the page and then test our end-to-end AskHR demo.
 1. Your results should mostly match the results in the [**demo\_video.mov**](https://ibm.box.com/s/0il7rzhoes6ii9jv12lun88he0kudnuc).<br>
     **Note**: if you are prompted for any name or email address, use the email address below based on the location you are attending the workshop.
+    
     | Location | email    |
     |----------|----------|
     | Singapore| jamie.tan@bestrun.sg  |
-    | Malaysia  | jamie.tan1@bestrun.sg |  
+    | Malaysia | jamie.tan1@bestrun.sg |  
 
     ```
-    I want to apply for childcare leave for a day
+    I want to apply for childcare leave for a day.
     ```
     ```
     jamie.tan@bestrun.sg
     ```
-*   Feature demonstrated: call a prebuilt collaborator agent
+
+* Feature demonstrated: call a prebuilt collaborator agent
+
+
     ```
     I need to bring my son for a follow up appointment with his specialist for his ear infection. Can you remind me of what would be my copayment amount if I’m under HDHP in-network?
     ```
-*   Feature demonstrated: reroute to collaborator agent & call tool
+
+* Feature demonstrated: reroute to collaborator agent & call tool
+
     ```
     I wanted to bring him to a different doctor this time - for a second opinion - can you recommend one near Lowell?
     ```
-*   Feature demonstrated: reroute to collaborator agent & call tool
+
+* Feature demonstrated: reroute to collaborator agent & call tool
+
     ```
     I also need to update my address
     ```
