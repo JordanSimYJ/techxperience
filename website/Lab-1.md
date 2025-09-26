@@ -99,13 +99,10 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
  ![image](./imgs/lab-1/step-24b.png)  
 
- If you are asked to input an email address, use the following email address according to where you are attending the workshop:  
-
-| Location | email    |
-|----------|----------|
-| Singapore| jamie.tan@bestrun.sg  |
-| Malaysia  | jamie.tan1@bestrun.sg |      
-
+ If you are asked to input an email address, use 
+ ``` 
+ jamie.tan@bestrun.sg  
+ ```
  ![image](./imgs/lab-1/step-24-b-2.png)  
 
  When asked for confirmation, input:  
@@ -150,7 +147,6 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
    ![image](./imgs/lab-1/step-34.png)
 
 11. Download the following document to your laptop. Then click the upload document icon and look for the [Employee Benefits.pdf](./pdfs/Employee-Benefits.pdf) document
-
    ![image](./imgs/lab-1/step-35.png)
 
 12. Now, ask the same question:
@@ -159,7 +155,6 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
    ```
 
 13. It will take some time to process the document, but you will see that your Compensation agent is able to answer the question.  
-
    ![image](./imgs/lab-1/step-37.png)
 
 14. Note that the document is only available to the agent for the current chat session.
