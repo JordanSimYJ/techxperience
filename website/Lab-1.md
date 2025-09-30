@@ -167,7 +167,7 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
    Show compensation for jadannb@test.com
    ```
    ```
-   My benefit plans
+   show the benefit plans
    ```
    ![image](./imgs/lab-1/step-39.png)
 
