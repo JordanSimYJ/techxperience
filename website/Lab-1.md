@@ -112,7 +112,7 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
 ## Bonus: Building Compensation Agent with document upload 
 
-1. Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Leave Management Successfactors.  
+1. Let’s try another prebuilt agent. Navigate to “Discover” from the left hand hamburger menu. Type in Compensation Successfactors.  
    Select the Agent with SAP SuccessFactor.  
 
    ![image](./imgs/lab-1/step-25.png)
@@ -121,7 +121,7 @@ Each watsonx Orchestrate prebuilt agent and tool is connected to a service. Serv
 
    ![image](./imgs/lab-1/step-26.png)
 
-3. Edit the Agent’s name to become [Your Initial]_Leave Management.  
+3. Edit the Agent’s name to become [Your Initial]_Compensation.  
 
    ![image](./imgs/lab-1/step-27.png)
  
