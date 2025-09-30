@@ -4,7 +4,10 @@ title: Lab 1
 # permalink: /lab1/
 nav_order: 2
 ---
-# AskHR Lab 1: Using Prebuilt Agents and Tools
+# 🧑‍💼 AskHR Lab 1: Using Prebuilt Agents and Tools
+
+Please refer to [Lab 1 Explanations](./pdfs/Lab%201-explanation.pdf) before starting.
+
 ## Objective
 
 The **IBM watsonx Orchestrate catalog** serves as a vast repository of prebuilt AI agents and tools, tailored to address a wide array of use cases and requirements. This extensive collection helps you discover agents, tools, or a blend of both that align with your specific needs. In this lab, we will use one of the prebuilt agents to demonstrate how easy it is for a user to start the agent-building journey.

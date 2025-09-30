@@ -5,6 +5,8 @@ title: Lab 2
 nav_order: 3
 ---
 # 🧑‍💼 AskHR Lab 2: Building a RAG agent
+
+Please refer to [Lab 2 Explanations](./pdfs/Lab%202-explanation.pdf) before starting.
     
 In this lab, we will enable our HR agent in watsonx Orchestrate to answer questions based on a knowledge base. This agent retrieves relevant information from documents to answer user queries.
 

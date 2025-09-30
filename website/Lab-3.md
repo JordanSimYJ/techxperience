@@ -7,6 +7,8 @@ nav_order: 4
 🧑‍💼 AskHR Lab 3: Multi-Agent Collaboration
 =================================================================================
 
+Please refer to [Lab 3 Explanations](./pdfs/Lab%203-explanation.pdf) before starting.
+
 In the final lab, we will extend our AskHR agent to be even more powerful by using its multi-agent capabilities. In particular, we'll add one more specialized agents as collaborator for our primary HR Agent.
 
 *   The agent will specializes in questions about an employee's health insurance plan
