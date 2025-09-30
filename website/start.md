@@ -12,7 +12,7 @@ nav_order: 1
 
 # Lab Scenario: AskHR Agent
 
-Sarah, an employee at Startosphere Corp, spends significant time navigating her company’s HCM system and various policy documents to perform HR-related tasks such as updating her mailing address, obtain information on her benefits and getting answers on office policies. 
+Jamie, an employee at Bestrun Corp, spends significant time navigating her company’s HCM system and various policy documents to perform HR-related tasks such as updating her mailing address, obtain information on her benefits and getting answers on office policies. 
 
 ## As-Is
 When Sarah needs answers or needs to complete a task, she must first determine where the information lives — her email inbox, internal documentation, HCM, etc — and then manually search through each.
