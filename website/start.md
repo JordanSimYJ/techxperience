@@ -30,17 +30,17 @@ Instead of juggling tabs, Jamie works from one smart interface where common task
 ![image](./imgs/imgs_intro/to-be.png)
 
 
-## Lab 2A: Agentic RAG with HDB Annual Report 
+# Lab 2A: Agentic RAG with HDB Annual Report 
 This scenario is separate from Lab 1. You will get to try the low code capability of watsonx Orchestrate by building a simple RAG agent in a few steps. You will upload the PDF and use the in-built native document search capabilities. 
 
 Suitable for business users. 
 
-## Lab 2B: Advanced Agentic RAG 
+# Lab 2B: Advanced Agentic RAG 
 Lab 2B is an advanced version of Lab 2A. Through the UI, you will get to connect with an existing enterprise search tool - Elasticsearch. The HDB Annual Report has been extracted, chunked and vectorized before loading into a vector index in Elasticsearch. You will be search through the sample queries with great accuracy.
 
 Suitable for business users (with help from AI engineers for vector db setup)
 
-## Lab 3: Using Collaborator Agents to Implement a Healthcare Insurance Provider AI Agent
+# Lab 3: Using Collaborator Agents to Implement a Healthcare Insurance Provider AI Agent
 You will get to experience how data scientist/AI engineers can build multi-agents in pro code fashion.
 
 Suitable for AI Engineers or Developers.

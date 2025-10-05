@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab 2A
+title: Lab 2
 # permalink: /lab2/
 nav_order: 3
 ---

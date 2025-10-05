@@ -8,3 +8,5 @@ nav_order: 4
 =================================================================================
 
 Please refer to [Lab 3 Explanations](./pdfs/Using%20Collaborator%20Agents%20to%20Implement%20a%20Healthcare%20Insurance%20Provider%20AI%20Agent.pdf) for instructions.
+
+This is a lab using the watsonx Orchestrate Agent Development Kit (ADK).
