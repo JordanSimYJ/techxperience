@@ -4,7 +4,7 @@ title: Lab 1
 # permalink: /lab1/
 nav_order: 2
 ---
-# 🧑‍💼 AskHR Lab 1: Using Prebuilt Agents and Tools
+# 🧑‍💼 Lab 1: Using Prebuilt Agents and Tools
 
 Please refer to [Lab 1 Explanations](./pdfs/Lab%201-explanation.pdf) before starting.
 
