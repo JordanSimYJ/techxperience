@@ -101,7 +101,7 @@ In this lab, we will build a HDB Annual Report agent in watsonx Orchestrate to a
 
     You have now built an AI Agent in under 10 minutes. Notice that you might not get all the correct answers. We will improve the search and build a better agent in Lab 2B below!
 
-**Congratulations! You've built your first Agentic RAG Agent.**
+# **🎉🎉🎉Congratulations! You've built your first Agentic RAG Agent.**
 
 
 ## Lab 2B: Agentic RAG with Enterprise Search
@@ -155,8 +155,9 @@ In this part of the lab, we will change the source of the knowledge base.
 
     ![image](./imgs/lab-3a/hdb_step24.jpg)
 
-    - Try out the other sample queries from: [Sample Queries](sample_queries.md)
+    - Try out the other sample queries from: [Sample Queries](./sample_queries.md)
 
-**Congratulations! You've connected the Agentic RAG Agent with an Enterprise Search knowledge base**
+**🎉🎉🎉Congratulations! You've connected the Agentic RAG Agent with an Enterprise Search knowledge base**
+
 The search results should be more accurate now!
 

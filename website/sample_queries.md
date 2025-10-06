@@ -116,14 +116,15 @@ Tan Chew Ling
 How did HDB Help Seniors Age with Confidence?
 ``` 
 HDB has enhanced two key schemes to provide seniors with better financial support during retirement: the Silver Housing Bonus (SHB) and the Lease Buyback Scheme (LBS).
-1.	Silver Housing Bonus (SHB):
-a.	The cash bonus for eligible seniors has increased from $20,000 to $30,000 when they downsize to a 3-room or smaller flat.
-b.	Seniors must use their sales proceeds to make a one-time top-up of $60,000 to their CPF Retirement Account and join CPF LIFE.
-c.	Previously, seniors had to sell a larger flat and might need to make an additional top-up based on their remaining proceeds.
-2.	Lease Buyback Scheme (LBS):
-a.	The maximum cash bonus for selling the tail-end of a flat’s lease to HDB has increased by 50%.
-b.	New maximum bonuses are now $30,000 for 3-room or smaller flats, $15,000 for 4-room flats, and $7,500 for 5-room or larger flats.
-Additionally, a new housing typology for seniors has been announced, integrating housing with care services. The pilot development in Bukit Batok will feature communal spaces, elder-friendly fittings, larger bathrooms, and other mobility accommodations to help seniors age in place comfortably.
+        1.	Silver Housing Bonus (SHB):
+        a.	The cash bonus for eligible seniors has increased from $20,000 to $30,000 when they downsize to a 3-room or smaller flat.
+        b.	Seniors must use their sales proceeds to make a one-time top-up of $60,000 to their CPF Retirement Account and join CPF LIFE.
+        c.	Previously, seniors had to sell a larger flat and might need to make an additional top-up based on their remaining proceeds.
+        2.	Lease Buyback Scheme (LBS):
+        a.	The maximum cash bonus for selling the tail-end of a flat’s lease to HDB has increased by 50%.
+        b.	New maximum bonuses are now $30,000 for 3-room or smaller flats, $15,000 for 4-room flats, and $7,500 for 5-room or larger flats.
+
+        Additionally, a new housing typology for seniors has been announced, integrating housing with care services. The pilot development in Bukit Batok will feature communal spaces, elder-friendly fittings, larger bathrooms, and other mobility accommodations to help seniors age in place comfortably.
 
 
 14.	
@@ -131,20 +132,20 @@ Additionally, a new housing typology for seniors has been announced, integrating
 Summarize the section on 'Managing Commercial Properties'
 ``` 
 As of FY19, HDB manages 17,811 commercial properties with a high average occupancy rate of 96%. Key highlights include:
-•	Commercial Units: 461 units were allocated, and 62 shops/eating houses were completed.
-•	COVID-19 Response: HDB provided rental flexibility and a one-off rental rebate equivalent to half a month's rent in March 2020 for qualifying tenants.
-•	Heartland Enterprise Upgrading Programme (HEUP): Launched in collaboration with Enterprise Singapore to rejuvenate precincts and transform heartland enterprises. This includes co-funding support for common area upgrades, place-making activities, and capability-building.
-•	Revitalisation of Shops (ROS): HDB is reviewing the scheme to allow upgrading works to proceed with at least 75% support from shop owners, compared to the previous requirement of 100%.
-•	Upgrades to Shopping Complexes: Ongoing upgrades include converting Admiralty Place into an air-conditioned mall, completing improvement works at Loyang Point (including a carpark shelter), and enhancing facilities at Pasir Ris West Plaza and Sunshine Place with new food and beverage shops, community space shelters, and escalator replacements.
+- Commercial Units: 461 units were allocated, and 62 shops/eating houses were completed.
+- COVID-19 Response: HDB provided rental flexibility and a one-off rental rebate equivalent to half a month's rent in March 2020 for qualifying tenants.
+- Heartland Enterprise Upgrading Programme (HEUP): Launched in collaboration with Enterprise Singapore to rejuvenate precincts and transform heartland enterprises. This includes co-funding support for common area upgrades, place-making activities, and capability-building.
+- Revitalisation of Shops (ROS): HDB is reviewing the scheme to allow upgrading works to proceed with at least 75% support from shop owners, compared to the previous requirement of 100%.
+- Upgrades to Shopping Complexes: Ongoing upgrades include converting Admiralty Place into an air-conditioned mall, completing improvement works at Loyang Point (including a carpark shelter), and enhancing facilities at Pasir Ris West Plaza and Sunshine Place with new food and beverage shops, community space shelters, and escalator replacements.
 
 15.	
 ```
 How did HDB Facilitate Community Participation?
 ```
 HDB has continued to emphasize place-making as a key component of its community-building initiatives. Key activities and developments this fiscal year include:
-•	Build-a-thon: The third run of this innovation challenge saw the highest participation to date, allowing residents to propose innovative projects that enhance community bonding and invigorate heartland spaces.
-•	Partnership with Republic Polytechnic: Workshops on Design Thinking were conducted to help participants refine their proposals, making neighborhoods more vibrant.
-•	Funding: Approximately $145,000 from HDB's Friendly Faces, Lively Places (FFLP) fund was allocated to prototype selected ideas, including a hydroponic community garden and a rejuvenated void deck featuring 3D wall murals.
-•	Lively Places Programme (LPP): In October 2019, the FFLP fund and Build-a-thon were merged into the LPP. In the past fiscal year, HDB received over 80 applications and disbursed nearly $220,000 to support community-driven projects.
-•	Renaming: The Build-a-thon has been renamed the Lively Places Challenge (LPC).
+- Build-a-thon: The third run of this innovation challenge saw the highest participation to date, allowing residents to propose innovative projects that enhance community bonding and invigorate heartland spaces.
+- Partnership with Republic Polytechnic: Workshops on Design Thinking were conducted to help participants refine their proposals, making neighborhoods more vibrant.
+- Funding: Approximately $145,000 from HDB's Friendly Faces, Lively Places (FFLP) fund was allocated to prototype selected ideas, including a hydroponic community garden and a rejuvenated void deck featuring 3D wall murals.
+- Lively Places Programme (LPP): In October 2019, the FFLP fund and Build-a-thon were merged into the LPP. In the past fiscal year, HDB received over 80 applications and disbursed nearly $220,000 to support community-driven projects.
+- Renaming: The Build-a-thon has been renamed the Lively Places Challenge (LPC).
 
