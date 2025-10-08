@@ -115,16 +115,21 @@ Tan Chew Ling
 ``` 
 How did HDB Help Seniors Age with Confidence?
 ``` 
-HDB has enhanced two key schemes to provide seniors with better financial support during retirement: the Silver Housing Bonus (SHB) and the Lease Buyback Scheme (LBS).
-        1.	Silver Housing Bonus (SHB):
-        a.	The cash bonus for eligible seniors has increased from $20,000 to $30,000 when they downsize to a 3-room or smaller flat.
-        b.	Seniors must use their sales proceeds to make a one-time top-up of $60,000 to their CPF Retirement Account and join CPF LIFE.
-        c.	Previously, seniors had to sell a larger flat and might need to make an additional top-up based on their remaining proceeds.
-        2.	Lease Buyback Scheme (LBS):
-        a.	The maximum cash bonus for selling the tail-end of a flat’s lease to HDB has increased by 50%.
-        b.	New maximum bonuses are now $30,000 for 3-room or smaller flats, $15,000 for 4-room flats, and $7,500 for 5-room or larger flats.
+HDB has enhanced two key schemes to better support seniors during retirement:
 
-        Additionally, a new housing typology for seniors has been announced, integrating housing with care services. The pilot development in Bukit Batok will feature communal spaces, elder-friendly fittings, larger bathrooms, and other mobility accommodations to help seniors age in place comfortably.
+**1. Silver Housing Bonus (SHB):**
+- The cash bonus for eligible seniors has increased from **$20,000** to **$30,000** when they downsize to a 3-room or smaller flat.
+- Seniors must use their sales proceeds to make a one-time top-up of **$60,000** to their CPF Retirement Account and join CPF LIFE.
+- Previously, seniors had to sell a larger flat and might need to make an additional top-up based on their remaining proceeds.
+
+**2. Lease Buyback Scheme (LBS):**
+- The maximum cash bonus for selling the tail-end of a flat’s lease to HDB has increased by **50%**.
+- New maximum bonuses:
+  - **$30,000** for 3-room or smaller flats
+  - **$15,000** for 4-room flats
+  - **$7,500** for 5-room or larger flats
+
+Additionally, a new housing typology for seniors has been announced, integrating housing with care services. The pilot development in Bukit Batok will feature communal spaces, elder-friendly fittings, larger bathrooms, and other mobility accommodations to help seniors age in place comfortably.
 
 
 14.	
