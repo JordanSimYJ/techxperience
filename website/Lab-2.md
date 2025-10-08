@@ -43,7 +43,7 @@ In this lab, we will build a HDB Annual Report agent in watsonx Orchestrate to a
 
     ![image](./imgs/lab-3a/hr_step_uploadfile.png)
 
-1. Drag and drop the [Employee Benefits.pdf](./pdfs/AR2020.pdf) and click on **Next**:
+1. Drag and drop the [AR2020.pdf](./pdfs/AR2020.pdf) and click on **Next**:
 
     ![image](./imgs/lab-3a/hdb_step6.jpg)
 
