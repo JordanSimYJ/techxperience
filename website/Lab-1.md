@@ -6,7 +6,7 @@ nav_order: 2
 ---
 # 🧑‍💼 Lab 1: Using Prebuilt Agents and Tools
 
-Please refer to [Lab 1 Explanations](./pdfs/Lab%201-explanation.pdf) before starting.
+Please refer to [Lab 1 Explanations](./pdfs/Lab%201-explanation.pdf) before starting. This lab is suited for Business Users.
 
 ## Objective
 

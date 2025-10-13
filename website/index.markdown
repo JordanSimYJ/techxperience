@@ -22,10 +22,10 @@ Throughout the day, we will take you through
 |     10:00 - 10:30        |     **Lab Preview**<br>**Part 1: Using Pre-built Agents and Tools (AskHR – SAP SuccessFactors)**<br> Browse the catalog and use the   attributes of another agent as a template to create your agent.                                                                    |
 |     10:40 - 11:30        |     **Lab 2: Building RAG agent in Watsonx Orchestrate**<br>Build a Retrieval-Augmented Generation (RAG) agent capable of synthesizing knowledge in real-time.                                                                            |
 |     11:30 - 12:00        |     **Demo of building with watsonx Orchestrate + AgenticWorkflows**                           |
-|     13:30 - 14:00        |     **Lab 3: Multi-Agent Collaboration**<br>Using Collaborator Agents to Implement a Healthcare Insurance Provider AI Agent. Build multiple agents working in tandem—coordinating tasks across domains using watsonx Orchestrate Agent Development Kit (ADK).                       |
-|     14:00 - 14:30        |     Demo of governing AI Agents & watsonx.governance                    |
-|     14:30 - 15:00        |     Data Platform: Presentation and Use case demo of Data Lakehousegovernance                    |
-|     15:10 - 15:45        |     **Questions & Clarifications**                                                                    |
+|     13:30 - 14:15        |     **Lab 3: Multi-Agent Collaboration**<br>Using Collaborator Agents to Implement a Healthcare Insurance Provider AI Agent. Build multiple agents working in tandem—coordinating tasks across domains using watsonx Orchestrate Agent Development Kit (ADK).                       |
+|     14:15 - 14:45        |     Demo of governing AI Agents & watsonx.governance                    |
+|     14:45 - 15:15        |     Data Platform: Presentation and Use case demo of Data Lakehousegovernance                    |
+|     15:30 - 15:45        |     **Questions & Clarifications**                                                                    |
 |     15:45 - 16:00               |     **Survey & Feedback**                                 |
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

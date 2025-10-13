@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # 🧑‍💼 Lab 2: Agentic RAG with HDB Annual Report 
     
-In this lab, we will build a HDB Annual Report agent in watsonx Orchestrate to answer questions based on a knowledge base. This agent retrieves relevant information from documents to answer user queries.
+In this lab, we will build a HDB Annual Report agent in watsonx Orchestrate to answer questions based on a knowledge base. This agent retrieves relevant information from documents to answer user queries. This lab is suited for Business Users.
 
 
 ## Step by step instructions to build the HDB Agent:
