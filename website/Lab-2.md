@@ -115,8 +115,9 @@ In this part of the lab, we will change the source of the knowledge base and dep
         ![image](./imgs/lab-3a/hdb_step15.jpg)
 
 1. Copy and paste in the existing Elasticsearch url we have provisioned. After filling the necessary fields, click Next.
+
     ```https://ceae3fbf-980c-4013-989d-d7f05210908e.bn2a2uid0up8mv7mv2ig.databases.appdomain.cloud:32577```
-    
+
     Choose API Key is the authentication type. The API key will be shared with you separately.
         ![image](./imgs/lab-3a/hdb_step16.jpg)
 
