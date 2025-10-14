@@ -17,4 +17,4 @@ Optional: when working ADK on your local machine.
     https://developer.watson-orchestrate.ibm.com/environment/production_import
 
 
-Please refer to [Lab 3 Instructions](./pdfs/Using%20Collaborator%20Agents%20to%20Implement%20a%20Healthcare%20Insurance%20Provider%20AI%20Agent.pdf) for instructions.
+Please refer to [Lab 3 Instructions](./pdfs/Using%20Collaborator%20Agents%20to%20Implement%20a%20Healthcare%20Insurance%20Provider%20AI%20Agent.pdf) for instructions of working in TechZone Virtual Environment with ADK installed. 
